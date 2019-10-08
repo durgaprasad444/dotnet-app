@@ -1,0 +1,3 @@
+pipelineType: "dotnetexample"
+appname: "dotnet-app"
+env: "dev"
